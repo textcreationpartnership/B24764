@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices of Ireland. A proclamation. Charles Porter Tho. Coningesby. Their Majesties army being now ordered into their Winter-quarters in several parts of this kingdom, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24764</idno><idno type="EEBO-CITATION">99886544</idno>
+  <idno type="VID">186764</idno>
+  <idno type="EEBO-PROQUEST">2240893698</idno>
+  
+            <idno type="STC">Wing I481</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[55]</idno>
+            <idno type="STC">ESTC R226151</idno>
+            <idno type="PROQUEST">ocm99886544</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886544e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186764)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices of Ireland. A proclamation. Charles Porter Tho. Coningesby. Their Majesties army being now ordered into their Winter-quarters in several parts of this kingdom, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke, printer to the King and Queen at their Majesties printing-house on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at their Majesties Castle of Dublin the 7th day of November 1691."</note>
+                  <note>Concerning provisions for winter quarters.--Steele.</note>
+                  <note>Steele notation: Arms 201. their kingdom 2) may of.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186764:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <q xml:lang="frm">JE MAINTIENDRAY</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices of IRELAND. A PROCLAMAITON</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER</item>
+                     <item>THO. CONINGESBY,</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heir Majesties Army being now ordered into their Winter-Quarters in several parts of this Kingdom, to the end the Officers and Soldiers may be regularly and indifferently Quartered, with the least inconvenience and partiality that is possible and that the Country may be preserved from Rapine and Violence, and the Army provided with necessary Sub<g ref="char:EOLhyphen"/>sistence at reasonable Rates. We do hereby Order, Publish and declare that the Quarters of all Officers and Soldiers, appointed to be in any County of this Kingdom, shall be settled and applotted by the Colo<g ref="char:EOLhyphen"/>nell or Commander in Chief of such Regiment as shall be assigned to Quarter in such County the Governour of the said County or his Deputy or Deputies, in his absence and the high Sheriff, And that no Officer or Soldier shall be Quartered in any other place then such as shall be appointed for them as afore<g ref="char:EOLhyphen"/>said, and that all and every their Majesties Subjects, in the said Counties re<g ref="char:EOLhyphen"/>spectively, shall provide Dyet for all such Officers and Soldiers as shall be Quartered upon them at the Rates and Prices hereunto Annexed, and shall provide all other provisions, the particulars whereof are in the Annexed List set down at the several Rates and Prices therein mention'd and expressed for which Dyet and other things so to be provided for them the said Soldiers shall pay at the end of every Week in case they are paid their Subsistence money, or if the same shall not be paid them, then the Officer or Commander in Chief of such Officer or Soldier are hereby required, at the end of every Week to signe such Bills, acknowledging what Provisions and Dyet such Officer and Soldier have had according to the Rates aforesaid, and upon producing such Bills so signed at the Office of the Commissioners of Accounts in <hi>Dublin,</hi> effectual care shall be taken for the satisfaction thereof. And to prevent abuses which have been here<g ref="char:EOLhyphen"/>tofore committed by some Officers and Soldiers in requiring more Hay and Oats then is necessary for their Horses, and makeing sale thereof, to others thereby oppressing and impoverishing the Country. We do hereby Order Publish and declare that no Person upon whom such Officers and Soldiers shall be Quar<g ref="char:EOLhyphen"/>tered shall be obliged to furnish any one Trooper or Dragoon more then after the quantity of Twenty pound of Hay and sufficient Straw for litter, and out peck of Oats for one day and so in proportion for a longer time, and where a Magazeen is laid in by the King, of Hay and Oats, and Horse Quartered in that Garrison, they shall take all their Forrage from the said Stores and if Quar<g ref="char:EOLhyphen"/>tered in the Neighbourhood at any convenient distance, the Countrey shall finde them carriage for their Oats from the Stores to their Quarters, and of Hay too if the distance is not too unreasonable to expect it or it can't be done but with
+<pb facs="tcp:186764:2"/> prejudice to the Hay, Whereof all Officers Soldiers and others whom it may concern are to take notice and to give all due obedience and observance to these Our Orders and Directions and to take care that they live peaceably, quietly, and inoffencively in their Quarters, without doing any wrong or violence to the Inhabitants, either in their body or goods as they will answer the contrary at their Peril.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at their Majesties Castle of <hi>Dublin</hi>
+                  </hi>
+                  <date>
+                     <hi>the 7th day of <hi>November.</hi> 1691.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_provision_prices">
+            <head>Rates of Provisions to be delivered to the Officers and Soldiers where not Dyeted by their Landlords.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>WHeat <hi>per</hi> Barrel containing 128 quarts <hi>Winchester</hi> measure at</cell>
+                     <cell>00</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Oats <hi>Ditto</hi> measure <hi>per</hi> Barrel</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Oat-meal <hi>per</hi> quart</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Mutton <hi>per</hi> pound</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Beef <hi>per</hi> pound</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>New-milk Cheese <hi>per</hi> pound</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Scum-milk Cheese <hi>per</hi> pound</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Butter <hi>per</hi> pound</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>03 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>Strong Beer <hi>per</hi> quart in the Quarters</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>And if sent above ten miles</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Brandy <hi>per</hi> quart</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Good Waters <hi>per</hi> quart</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Sweet Milk <hi>per</hi> quart</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Hay <hi>per</hi> hundred</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>When they shall be Dyeted by their Landlords the Dyet shall be one hot meal a day and Bread and Cheese morning and night.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>For a Trumpet and Corporal of Horse for his one Dyet <hi>per</hi> week</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>A Trooper</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="4">DRAGOONS</cell>
+                  </row>
+                  <row>
+                     <cell>For a Non-Comission'd Officer</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a private Dragoon</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="4">FOOT</cell>
+                  </row>
+                  <row>
+                     <cell>For a Non-Comission'd Officer</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a common Soldier</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>When they are not thus Dyeted by their Landlords they must be allowed Fire, Small<g ref="char:EOLhyphen"/>beer, Salt and Sower.</p>
+            <closer>
+               <signed>By the Lords-Justices Command. Geo: Clark,</signed>
+               <lb/> GOD Save the KING and QUEEN,</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke.</hi> Printer to the King and Queen at their Majesties Printing-House on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
